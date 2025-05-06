@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Arhinful</h1>
 <h3 align="center">A passionate mobile app engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arhin27emma&label=Profile%20views&color=0e75b6&style=flat" alt="arhin27emma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhin27emma" alt="arhin27emma" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - ⚡ Fun fact **I like animes and video games**
 
 <h3 align="left">Connect with me:</h3>
